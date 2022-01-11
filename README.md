@@ -6,7 +6,7 @@
 <p> <strong> Light mode & dark mode:</strong> </p>
 
 <image src="light_bottom_bar.gif" height="
-650" width="350"/>
+500" width="250"/>
 <image src="dark_bottom_bar.gif" height="
-650" width="350"/>
+500" width="250"/>
 
